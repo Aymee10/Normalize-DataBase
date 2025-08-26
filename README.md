@@ -1,6 +1,20 @@
-## Ejercicio de normalización de Bases de Datos
+# Ejercicio de normalización de Bases de Datos
+Este repositorio contiene la resolución del ejercicio de normalización de una tabla de datos proporcionada en un archivo PDF. El objetivo principal fue transformar los datos no normalizados en un esquema de base de datos relacional eficiente y bien estructurado.
+¡Claro! Aquí tienes una descripción concisa y profesional para el README de tu repositorio, siguiendo las instrucciones que me diste.
 
-Tablas sin normalizar en la orientación del ejercicio
+Descripción del Ejercicio de Normalización de Bases de Datos
+Este repositorio contiene la resolución del ejercicio de normalización de una tabla de datos proporcionada en un archivo PDF. El objetivo principal fue transformar los datos no normalizados en un esquema de base de datos relacional eficiente y bien estructurado.
+
+Proceso y Entregables
+El proceso de desarrollo se dividió en las siguientes etapas:
+
+Normalización de la tabla: Se realizó el proceso de normalización de la tabla de datos, identificando y eliminando redundancias para alcanzar un diseño más óptimo.
+
+Diagrama de Entidad-Relación (Chen): Se creó un diagrama ER de Chen para representar la estructura conceptual de la base de datos, mostrando las entidades, sus atributos y las relaciones entre ellas.
+
+Diagrama de Esquema de Base de Datos (Patas de Gallo): Para una representación más detallada y técnica, se elaboró un diagrama de tipo patas de gallo (Crow's Foot Notation), detallando las tablas, sus campos (incluyendo claves primarias y foráneas) y las cardinalidades de las relaciones.
+
+### Tablas sin normalizar en la orientación del ejercicio
 
 <img width="922" height="402" alt="Captura de pantalla 2025-08-26 141905" src="https://github.com/user-attachments/assets/0ceb1d88-e826-440e-b20f-3bfac30e6e32" />
 
@@ -17,7 +31,8 @@ Tablas sin normalizar en la orientación del ejercicio
 ### Diagrama UML (Database Schema - Patas de gallo)
 
 
-<img width="717" height="408" alt="Captura de pantalla 2025-08-26 142421" src="https://github.com/user-attachments/assets/f7df9bb8-d6d2-43b2-b18c-03158253da1c" />
+<img width="699" height="398" alt="Captura de pantalla 2025-08-26 143152" src="https://github.com/user-attachments/assets/9b15707d-aa30-49b6-ab8e-f31a98d06641" />
+
 
 
 
