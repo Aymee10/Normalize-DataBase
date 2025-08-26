@@ -1,8 +1,5 @@
 # Ejercicio de normalización de Bases de Datos
-Este repositorio contiene la resolución del ejercicio de normalización de una tabla de datos proporcionada en un archivo PDF. El objetivo principal fue transformar los datos no normalizados en un esquema de base de datos relacional eficiente y bien estructurado.
-¡Claro! Aquí tienes una descripción concisa y profesional para el README de tu repositorio, siguiendo las instrucciones que me diste.
 
-Descripción del Ejercicio de Normalización de Bases de Datos
 Este repositorio contiene la resolución del ejercicio de normalización de una tabla de datos proporcionada en un archivo PDF. El objetivo principal fue transformar los datos no normalizados en un esquema de base de datos relacional eficiente y bien estructurado.
 
 Proceso y Entregables
@@ -32,6 +29,7 @@ Diagrama de Esquema de Base de Datos (Patas de Gallo): Para una representación 
 
 
 <img width="699" height="398" alt="Captura de pantalla 2025-08-26 143152" src="https://github.com/user-attachments/assets/9b15707d-aa30-49b6-ab8e-f31a98d06641" />
+
 
 
 
